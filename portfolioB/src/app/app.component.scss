@@ -1,0 +1,40 @@
+// headlines text
+.sofadi-one-regular {
+    font-family: "Sofadi One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+// info text
+.quicksand-info-text {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+.row{
+    div.col-md-4 {
+        background-color: #16243d;
+        font-family: "Merienda", cursive;
+        font-optical-sizing: auto;
+        font-weight: 700;
+        font-style: normal;
+        color: aliceblue;
+        text-align: center;
+    }
+      
+}
+
+.projectSection{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    img{
+        height: -webkit-fill-available;
+    }
+}
+  
+  
